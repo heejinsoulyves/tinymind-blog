@@ -3,7 +3,6 @@ title: kpop concerts I went to
 date: 2024-12-11T06:01:40.332Z
 ---
 
-
 ### 2024
 
 ARTMS in Atlanta 240819
