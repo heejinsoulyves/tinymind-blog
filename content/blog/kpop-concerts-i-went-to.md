@@ -5,6 +5,7 @@ date: 2024-12-11T06:01:40.332Z
 
 
 
+
 ### 2024
 
 ARTMS in Atlanta 240819  
@@ -16,7 +17,7 @@ Odd Eye Circle in Atlanta 240117
  ### 2023
 
 Everglow in Atlanta 231106  
-tripleS LOVElution in Atlanta 230924. 
+tripleS LOVElution in Atlanta 230924  
 Loossemble in Atlanta 230922  
 TRI.BE in Atlanta 230608  
 NMIXX in Atlanta 230512  
